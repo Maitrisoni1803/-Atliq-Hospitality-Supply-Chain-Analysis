@@ -37,6 +37,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 8. Among room types, Elite rooms secure the highest number of bookings, comprising 49.5K (36.78%). Following Elite rooms are Standard rooms at 28.57%, Premium rooms at 22.71%, and Presidential rooms at 11.94%.
 9. AtliQ Blu has the highest occupancy rate at 62%, highlighting significant demand for this property. While, Atliq Seasons records the lowest occupancy rate at 11.31%, indicating potential areas for improvement. 
 10. In terms of cancellations, Atliq Palace experiences the highest rate at 14.49%, closely followed by Atliq Gardens and Atliq City. Whereas, Atliq Exotica registers the lowest cancellation rate at 14.02%.
+
+
 **-----------------------------------------------------------------------------------------------------------------------------------------**
 
 ## Atliq Hospitality Analysis : Domain: Hospitality,  Function: Revenue
